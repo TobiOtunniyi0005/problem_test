@@ -1,0 +1,173 @@
+Johannesburg,South Africa
+Cape Town,South Africa
+Soweto,South Africa
+Gqeberha,South Africa
+Pietermaritzburg,South Africa
+Durban,South Africa
+Pretoria,South Africa
+Rustenburg,South Africa
+Newcastle,South Africa
+East London,South Africa
+Katlehong,South Africa
+Khayelitsha,South Africa
+Randburg,South Africa
+Roodepoort,South Africa
+Mitchells Plain,South Africa
+Boksburg,South Africa
+Bloemfontein,South Africa
+Germiston,South Africa
+Centurion,South Africa
+Kimberley,South Africa
+Sandton,South Africa
+Klerksdorp,South Africa
+Bethelsdorp,South Africa
+Kempton Park,South Africa
+Nqutu,South Africa
+Kroonstad,South Africa
+Benoni,South Africa
+George,South Africa
+Potchefstroom,South Africa
+Pinetown,South Africa
+Krugersdorp,South Africa
+Mthatha,South Africa
+Polokwane,South Africa
+Springs,South Africa
+Parow,South Africa
+Paarl,South Africa
+Empangeni,South Africa
+Witbank,South Africa
+Uitenhage,South Africa
+KwaDukuza,South Africa
+Worcester,South Africa
+Grahamstown,South Africa
+Oudtshoorn,South Africa
+Ermelo,South Africa
+Stellenbosch,South Africa
+Sasolburg,South Africa
+Thaba Nchu,South Africa
+Kwamhlanga,South Africa
+Thohoyandou,South Africa
+Queenstown,South Africa
+Odendaalsrus,South Africa
+Bethal,South Africa
+Mossel Bay,South Africa
+Wellington,South Africa
+Queensburgh,South Africa
+Phuthaditjhaba,South Africa
+Kokstad,South Africa
+Edenvale,South Africa
+Vryheid,South Africa
+Kuilsrivier,South Africa
+Bothaville,South Africa
+Parys,South Africa
+Grabouw,South Africa
+Despatch,South Africa
+Vredenburg,South Africa
+Mmabatho,South Africa
+Lydenburg,South Africa
+Siyabuswa,South Africa
+Namakgale,South Africa
+Malmesbury,South Africa
+Lebowakgomo,South Africa
+Phokeng,South Africa
+Westville,South Africa
+Ulundi,South Africa
+Mondlo,South Africa
+Saldanha,South Africa
+Heilbron,South Africa
+Frankfort,South Africa
+Giyani,South Africa
+Mathibestad,South Africa
+Mpophomeni,South Africa
+Volksrust,South Africa
+uMhlanga Rocks,South Africa
+Robertson,South Africa
+Pampierstad,South Africa
+Hammanskraal,South Africa
+Bronkhorstspruit,South Africa
+Itsoseng,South Africa
+Garsfontein,South Africa
+Mooirivier,South Africa
+Turffontein,South Africa
+Alice,South Africa
+Mahikeng,South Africa
+Breyten,South Africa
+Primrose,South Africa
+Bedfordview,South Africa
+Kirkwood,South Africa
+Pretoria-Noord,South Africa
+Elandsdoorn,South Africa
+Buffelshoek,South Africa
+Groutville,South Africa
+Summerstrand,South Africa
+Dysselsdorp,South Africa
+Matatiele,South Africa
+Lenyenye,South Africa
+Mount Fletcher,South Africa
+Gonubie,South Africa
+Mogogelo,South Africa
+Vaal Reefs,South Africa
+De Doorns,South Africa
+Bhisho,South Africa
+Langeloop,South Africa
+Velddrif,South Africa
+Hartswater,South Africa
+Alexandria,South Africa
+Boekenhouthoek,South Africa
+Steynsrus,South Africa
+Greytown,South Africa
+Mbuzini,South Africa
+Doornkop,South Africa
+Umzimkulu,South Africa
+Sedgefield,South Africa
+Hawston,South Africa
+Buffelspruit,South Africa
+Lorraine,South Africa
+Saron,South Africa
+Bosfontein,South Africa
+Breidbach,South Africa
+Welverdiend,South Africa
+Wolwekraal,South Africa
+Citrusdal,South Africa
+Tweeling,South Africa
+Vanrhynsdorp,South Africa
+Klawer,South Africa
+Elsburg,South Africa
+Olifantshoek,South Africa
+Genadendal,South Africa
+eManguzi,South Africa
+Botrivier,South Africa
+Oberholzer,South Africa
+Mount Ayliff,South Africa
+Mount Frere,South Africa
+Riviersonderend,South Africa
+Kenton on Sea,South Africa
+Flagstaff,South Africa
+Waterkloof,South Africa
+Sonop,South Africa
+Libode,South Africa
+Bluewater Bay,South Africa
+Riebeek-Wes,South Africa
+Sibasa,South Africa
+Uvongo Beach,South Africa
+Sandbaai,South Africa
+Lusikisiki,South Africa
+Chrissiesmeer,South Africa
+Schulzendal,South Africa
+Madikwe,South Africa
+Malelane,South Africa
+Warner Beach,South Africa
+Richmond,South Africa
+Shakaskraal,South Africa
+New Hanover,South Africa
+Komaggas,South Africa
+Rawsonville,South Africa
+Fontainebleau,South Africa
+Sheepmoor,South Africa
+Lesseyton,South Africa
+Ngqeleni,South Africa
+Roossenekal,South Africa
+Doonside,South Africa
+Abbotspoort,South Africa
+Hlabisa,South Africa
+Nelspruit,South Africa

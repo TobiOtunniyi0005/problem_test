@@ -1,0 +1,1 @@
+To force a path add -1 to the TSP file this means this route will certainly be taken first as well as the other -1 distance routes.

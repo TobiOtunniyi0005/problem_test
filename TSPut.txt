@@ -1,0 +1,182 @@
+Johannesburg,South Africa#$%$#$$#0;0;0;0
+Cape Town,South Africa#$%$#$$#0;0;0;0
+Soweto,South Africa#$%$#$$#0;0;0;0
+Gqeberha,South Africa#$%$#$$#0;0;0;0
+Pietermaritzburg,South Africa#$%$#$$#0;0;0;0
+Durban,South Africa#$%$#$$#0;0;0;0
+Pretoria,South Africa#$%$#$$#0;0;0;0
+Rustenburg,South Africa#$%$#$$#0;0;0;0
+Newcastle,South Africa#$%$#$$#0;0;0;0
+East London,South Africa#$%$#$$#0;0;0;0
+Katlehong,South Africa#$%$#$$#0;0;0;0
+Khayelitsha,South Africa#$%$#$$#0;0;0;0
+Randburg,South Africa#$%$#$$#0;0;0;0
+Roodepoort,South Africa#$%$#$$#0;0;0;0
+Mitchells Plain,South Africa#$%$#$$#0;0;0;0
+Boksburg,South Africa#$%$#$$#0;0;0;0
+Bloemfontein,South Africa#$%$#$$#0;0;0;0
+Germiston,South Africa#$%$#$$#0;0;0;0
+Centurion,South Africa#$%$#$$#0;0;0;0
+Kimberley,South Africa#$%$#$$#0;0;0;0
+Sandton,South Africa#$%$#$$#0;0;0;0
+Klerksdorp,South Africa#$%$#$$#0;0;0;0
+Bethelsdorp,South Africa#$%$#$$#0;0;0;0
+Kempton Park,South Africa#$%$#$$#0;0;0;0
+Nqutu,South Africa#$%$#$$#0;0;0;0
+Kroonstad,South Africa#$%$#$$#0;0;0;0
+Benoni,South Africa#$%$#$$#0;0;0;0
+George,South Africa#$%$#$$#0;0;0;0
+Potchefstroom,South Africa#$%$#$$#0;0;0;0
+Pinetown,South Africa#$%$#$$#0;0;0;0
+Krugersdorp,South Africa#$%$#$$#0;0;0;0
+Mthatha,South Africa#$%$#$$#0;0;0;0
+Polokwane,South Africa#$%$#$$#0;0;0;0
+Springs,South Africa#$%$#$$#0;0;0;0
+Winterveld,South Africa#$%$#$$#0;0;0;0
+Parow,South Africa#$%$#$$#0;0;0;0
+Paarl,South Africa#$%$#$$#0;0;0;0
+Empangeni,South Africa#$%$#$$#0;0;0;0
+Witbank,South Africa#$%$#$$#0;0;0;0
+Uitenhage,South Africa#$%$#$$#0;0;0;0
+KwaDukuza,South Africa#$%$#$$#0;0;0;0
+Worcester,South Africa#$%$#$$#0;0;0;0
+Grahamstown,South Africa#$%$#$$#0;0;0;0
+Oudtshoorn,South Africa#$%$#$$#0;0;0;0
+Ermelo,South Africa#$%$#$$#0;0;0;0
+Stellenbosch,South Africa#$%$#$$#0;0;0;0
+Sasolburg,South Africa#$%$#$$#0;0;0;0
+Thaba Nchu,South Africa#$%$#$$#0;0;0;0
+Kwamhlanga,South Africa#$%$#$$#0;0;0;0
+Thohoyandou,South Africa#$%$#$$#0;0;0;0
+Queenstown,South Africa#$%$#$$#0;0;0;0
+Odendaalsrus,South Africa#$%$#$$#0;0;0;0
+Bethal,South Africa#$%$#$$#0;0;0;0
+Mossel Bay,South Africa#$%$#$$#0;0;0;0
+Wellington,South Africa#$%$#$$#0;0;0;0
+Queensburgh,South Africa#$%$#$$#0;0;0;0
+Phuthaditjhaba,South Africa#$%$#$$#0;0;0;0
+Kokstad,South Africa#$%$#$$#0;0;0;0
+Edenvale,South Africa#$%$#$$#0;0;0;0
+Vryheid,South Africa#$%$#$$#0;0;0;0
+Kuilsrivier,South Africa#$%$#$$#0;0;0;0
+Bothaville,South Africa#$%$#$$#0;0;0;0
+Parys,South Africa#$%$#$$#0;0;0;0
+Grabouw,South Africa#$%$#$$#0;0;0;0
+Despatch,South Africa#$%$#$$#0;0;0;0
+Vredenburg,South Africa#$%$#$$#0;0;0;0
+Mmabatho,South Africa#$%$#$$#0;0;0;0
+Lydenburg,South Africa#$%$#$$#0;0;0;0
+Siyabuswa,South Africa#$%$#$$#0;0;0;0
+Namakgale,South Africa#$%$#$$#0;0;0;0
+Malmesbury,South Africa#$%$#$$#0;0;0;0
+Lebowakgomo,South Africa#$%$#$$#0;0;0;0
+Phokeng,South Africa#$%$#$$#0;0;0;0
+Westville,South Africa#$%$#$$#0;0;0;0
+Ulundi,South Africa#$%$#$$#0;0;0;0
+Mondlo,South Africa#$%$#$$#0;0;0;0
+Saldanha,South Africa#$%$#$$#0;0;0;0
+Heilbron,South Africa#$%$#$$#0;0;0;0
+Frankfort,South Africa#$%$#$$#0;0;0;0
+Giyani,South Africa#$%$#$$#0;0;0;0
+Mathibestad,South Africa#$%$#$$#0;0;0;0
+Mpophomeni,South Africa#$%$#$$#0;0;0;0
+Volksrust,South Africa#$%$#$$#0;0;0;0
+uMhlanga Rocks,South Africa#$%$#$$#0;0;0;0
+Nkowakowa,South Africa#$%$#$$#0;0;0;0
+Robertson,South Africa#$%$#$$#0;0;0;0
+Pampierstad,South Africa#$%$#$$#0;0;0;0
+Hammanskraal,South Africa#$%$#$$#0;0;0;0
+Bronkhorstspruit,South Africa#$%$#$$#0;0;0;0
+Itsoseng,South Africa#$%$#$$#0;0;0;0
+Garsfontein,South Africa#$%$#$$#0;0;0;0
+Mooirivier,South Africa#$%$#$$#0;0;0;0
+Kingsborough,South Africa#$%$#$$#0;0;0;0
+Turffontein,South Africa#$%$#$$#0;0;0;0
+Alice,South Africa#$%$#$$#0;0;0;0
+Mahikeng,South Africa#$%$#$$#0;0;0;0
+Breyten,South Africa#$%$#$$#0;0;0;0
+Primrose,South Africa#$%$#$$#0;0;0;0
+Bedfordview,South Africa#$%$#$$#0;0;0;0
+eManzimtoti,South Africa#$%$#$$#0;0;0;0
+Kirkwood,South Africa#$%$#$$#0;0;0;0
+Pretoria-Noord,South Africa#$%$#$$#0;0;0;0
+Elandsdoorn,South Africa#$%$#$$#0;0;0;0
+Buffelshoek,South Africa#$%$#$$#0;0;0;0
+Groutville,South Africa#$%$#$$#0;0;0;0
+Summerstrand,South Africa#$%$#$$#0;0;0;0
+Dysselsdorp,South Africa#$%$#$$#0;0;0;0
+Matatiele,South Africa#$%$#$$#0;0;0;0
+eXobho,South Africa#$%$#$$#0;0;0;0
+Lenyenye,South Africa#$%$#$$#0;0;0;0
+Mount Fletcher,South Africa#$%$#$$#0;0;0;0
+Gonubie,South Africa#$%$#$$#0;0;0;0
+Mogogelo,South Africa#$%$#$$#0;0;0;0
+Vaal Reefs,South Africa#$%$#$$#0;0;0;0
+De Doorns,South Africa#$%$#$$#0;0;0;0
+Bhisho,South Africa#$%$#$$#0;0;0;0
+Langeloop,South Africa#$%$#$$#0;0;0;0
+Ekuvukeni,South Africa#$%$#$$#0;0;0;0
+Velddrif,South Africa#$%$#$$#0;0;0;0
+Hartswater,South Africa#$%$#$$#0;0;0;0
+Alexandria,South Africa#$%$#$$#0;0;0;0
+Ga-Kgapane,South Africa#$%$#$$#0;0;0;0
+Boekenhouthoek,South Africa#$%$#$$#0;0;0;0
+Steynsrus,South Africa#$%$#$$#0;0;0;0
+Greytown,South Africa#$%$#$$#0;0;0;0
+Mbuzini,South Africa#$%$#$$#0;0;0;0
+Doornkop,South Africa#$%$#$$#0;0;0;0
+Umzimkulu,South Africa#$%$#$$#0;0;0;0
+Sedgefield,South Africa#$%$#$$#0;0;0;0
+Hawston,South Africa#$%$#$$#0;0;0;0
+Buffelspruit,South Africa#$%$#$$#0;0;0;0
+Lorraine,South Africa#$%$#$$#0;0;0;0
+Saron,South Africa#$%$#$$#0;0;0;0
+Bosfontein,South Africa#$%$#$$#0;0;0;0
+Breidbach,South Africa#$%$#$$#0;0;0;0
+Welverdiend,South Africa#$%$#$$#0;0;0;0
+Wolwekraal,South Africa#$%$#$$#0;0;0;0
+Citrusdal,South Africa#$%$#$$#0;0;0;0
+Tweeling,South Africa#$%$#$$#0;0;0;0
+Vanrhynsdorp,South Africa#$%$#$$#0;0;0;0
+Klawer,South Africa#$%$#$$#0;0;0;0
+Elsburg,South Africa#$%$#$$#0;0;0;0
+Olifantshoek,South Africa#$%$#$$#0;0;0;0
+Genadendal,South Africa#$%$#$$#0;0;0;0
+eManguzi,South Africa#$%$#$$#0;0;0;0
+Botrivier,South Africa#$%$#$$#0;0;0;0
+Oberholzer,South Africa#$%$#$$#0;0;0;0
+Mount Ayliff,South Africa#$%$#$$#0;0;0;0
+Mount Frere,South Africa#$%$#$$#0;0;0;0
+Riviersonderend,South Africa#$%$#$$#0;0;0;0
+Kenton on Sea,South Africa#$%$#$$#0;0;0;0
+Flagstaff,South Africa#$%$#$$#0;0;0;0
+Waterkloof,South Africa#$%$#$$#0;0;0;0
+Sonop,South Africa#$%$#$$#0;0;0;0
+Libode,South Africa#$%$#$$#0;0;0;0
+Bluewater Bay,South Africa#$%$#$$#0;0;0;0
+Riebeek-Wes,South Africa#$%$#$$#0;0;0;0
+Sibasa,South Africa#$%$#$$#0;0;0;0
+Uvongo Beach,South Africa#$%$#$$#0;0;0;0
+Sandbaai,South Africa#$%$#$$#0;0;0;0
+Lusikisiki,South Africa#$%$#$$#0;0;0;0
+Chrissiesmeer,South Africa#$%$#$$#0;0;0;0
+Schulzendal,South Africa#$%$#$$#0;0;0;0
+Rooiboklaagte,South Africa#$%$#$$#0;0;0;0
+Madikwe,South Africa#$%$#$$#0;0;0;0
+Malelane,South Africa#$%$#$$#0;0;0;0
+Warner Beach,South Africa#$%$#$$#0;0;0;0
+Richmond,South Africa#$%$#$$#0;0;0;0
+Shakaskraal,South Africa#$%$#$$#0;0;0;0
+New Hanover,South Africa#$%$#$$#0;0;0;0
+Komaggas,South Africa#$%$#$$#0;0;0;0
+Rawsonville,South Africa#$%$#$$#0;0;0;0
+Gannalaagte,South Africa#$%$#$$#0;0;0;0
+Fontainebleau,South Africa#$%$#$$#0;0;0;0
+Sheepmoor,South Africa#$%$#$$#0;0;0;0
+Lesseyton,South Africa#$%$#$$#0;0;0;0
+Ngqeleni,South Africa#$%$#$$#0;0;0;0
+Roossenekal,South Africa#$%$#$$#0;0;0;0
+Doonside,South Africa#$%$#$$#0;0;0;0
+Abbotspoort,South Africa#$%$#$$#0;0;0;0
+Hlabisa,South Africa#$%$#$$#0;0;0;0
+Nelspruit,South Africa#$%$#$$#0;0;0;0

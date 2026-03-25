@@ -1,0 +1,56 @@
+import math
+from decimal import Decimal, getcontext
+
+#You can't just get the right answer because the sum of the fractions cannot be seperated into the positive and the negative sectors. You
+#Nah, that was because of the negative and positives, now that thery are seperated we are trying to get numbers smaller than 1/2 that's all. If not 1/3 and on till we get to the latest...Update, it is actually impossible to seperate individually.
+#This is as good as it gets bro.
+neg = 0
+pos = 0
+num = 2
+
+tpos = 0
+tneg = 0
+
+def test(n,pos1,neg1):
+   neg2 = math.floor(neg1*n)
+   pos2 = math.floor(pos1*n)
+
+   print(f'{pos2-neg2}')
+   return pos2-neg2
+
+def is_perfect_square(n):
+    if n < 0:
+        return False
+    root = math.isqrt(n)  # Efficient integer square root
+    return root * root == n
+   
+def test2(n,pos1,neg1):
+   neg2 = math.floor(neg1*n)
+   pos2 = math.floor(pos1*n)
+
+   tneg = neg1+pos1/n
+   tpos = pos1+1/n
+   neg3 = math.floor(tneg*n)
+   pos3 = math.floor(tpos*n)
+   print(f'pneg:{neg2}, nneg:{neg3} ppos:{pos2}, npos:{pos3}')
+   if (neg2==neg3) and (pos2+1==pos3):
+      return True
+
+
+while (num<100):
+
+   tneg = neg+pos/num
+   tpos = pos+1/num
+   nneg = neg-pos/num
+   npos = pos-1/num
+   print(f'Considering {num}:')# Potential pos: {pos}, Potential neg: {neg} Potential Frac: {pos-neg} ')
+
+   #if (test(num-1,tpos,tneg)==test(num,pos,neg)) and 
+   #if (test(num,pos,neg)!=test(num,tpos,tneg)): #not(is_perfect_square(num)):
+   if test2(num+1,pos,neg):
+      neg += pos/num
+      pos += 1/num
+      print(f'New addition: {num} Updated pos: {pos}, Updated neg: {neg} Updated Frac: {pos-neg}\n')
+   else:
+      print('Not accepted.\n')
+   num=num+1

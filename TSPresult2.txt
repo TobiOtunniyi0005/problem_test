@@ -1,0 +1,5207 @@
+Mango Man
+Baseliner checked to start for loop
+Online!
+the distance between Johannesburg,South Africa and Mossel Bay,South Africa is 2442.38
+Online!
+Last checked Johannesburg,South Africa Mossel Bay,South Africa
+Online!
+the distance between Johannesburg,South Africa and Pretoria,South Africa is 118.9688
+Online!
+Last checked Johannesburg,South Africa Pretoria,South Africa
+Online!
+the distance between Johannesburg,South Africa and Durban,South Africa is 1136.4214
+Online!
+Last checked Johannesburg,South Africa Durban,South Africa
+Online!
+the distance between Johannesburg,South Africa and Tembisa,South Africa is 84.7146
+Online!
+Last checked Johannesburg,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa Mossel Bay,South Africa
+Online!
+the distance between Pretoria,South Africa and Durban,South Africa is 1229.763
+Online!
+Last checked Pretoria,South Africa Durban,South Africa
+Online!
+the distance between Pretoria,South Africa and Tembisa,South Africa is 70.1014
+Online!
+Last checked Pretoria,South Africa Tembisa,South Africa
+Online!
+the distance between Pretoria,South Africa and Mossel Bay,South Africa is 2552.9604
+Online!
+Last checked Pretoria,South Africa Mossel Bay,South Africa
+Online!
+the distance between Durban,South Africa and Tembisa,South Africa is 1192.423
+Online!
+Last checked Durban,South Africa Tembisa,South Africa
+Online!
+the distance between Durban,South Africa and Mossel Bay,South Africa is 2603.1587999999997
+Online!
+Last checked Durban,South Africa Mossel Bay,South Africa
+Online!
+the distance between Tembisa,South Africa and Mossel Bay,South Africa is 2534.6082
+Online!
+Last checked Tembisa,South Africa Mossel Bay,South Africa
+New round of evaluation
+The smallest distance so far is: 70.1014. This is from Pretoria,South Africa to Tembisa,South Africa
+Start: 0, Stop: 1, Steps: 1
+Check one
+Johannesburg,South Africa;
+Tembisa,South Africa; Pretoria,South Africa;
+Durban,South Africa;
+Mossel Bay,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Last checked Johannesburg,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa Durban,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Online!
+Last checked Tembisa,South Africa Durban,South Africa
+Online!
+Online!
+Online!
+Last checked Tembisa,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Mossel Bay,South Africa
+New round of evaluation
+The smallest distance so far is: 84.7146. This is from Johannesburg,South Africa to Tembisa,South Africa
+Start: 0, Stop: 2, Steps: 1
+Check one
+Check one
+Pretoria,South Africa; Tembisa,South Africa; Johannesburg,South Africa;
+Durban,South Africa;
+Mossel Bay,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Durban,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Mossel Bay,South Africa
+New round of evaluation
+The smallest distance so far is: 1136.4214. This is from Johannesburg,South Africa to Durban,South Africa
+Start: 0, Stop: 1, Steps: 1
+Check one
+Pretoria,South Africa; Tembisa,South Africa; Johannesburg,South Africa; Durban,South Africa;
+Mossel Bay,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Online!
+Last checked Pretoria,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Online!
+Last checked Pretoria,South Africa Mossel Bay,South Africa
+New round of evaluation
+The smallest distance so far is: 2552.9604. This is from Pretoria,South Africa to Mossel Bay,South Africa
+Start: 0, Stop: 1, Steps: 1
+Check one
+Mossel Bay,South Africa; Pretoria,South Africa; Tembisa,South Africa; Johannesburg,South Africa; Durban,South Africa;
+
+Results are:__
+Mossel Bay,South Africa
+Pretoria,South Africa
+Tembisa,South Africa
+Johannesburg,South Africa
+Durban,South Africa
+PS C:\Users\Tobi Otunniyi\desktop\Combo> python TSP.py
+Mango Man
+Baseliner checked to start for loop
+Online!
+the distance between Johannesburg,South Africa and Mossel Bay,South Africa is 2442.38
+Online!
+Last checked Johannesburg,South Africa Mossel Bay,South Africa
+Online!
+the distance between Johannesburg,South Africa and Pretoria,South Africa is 118.9688
+Online!
+Last checked Johannesburg,South Africa Pretoria,South Africa
+Online!
+the distance between Johannesburg,South Africa and Durban,South Africa is 1136.4214
+Online!
+Last checked Johannesburg,South Africa Durban,South Africa
+Online!
+the distance between Johannesburg,South Africa and Cape Town,South Africa is 2798.6292000000003
+Online!
+Last checked Johannesburg,South Africa Cape Town,South Africa
+Online!
+the distance between Johannesburg,South Africa and Bloemfontein,South Africa is 793.4078000000001
+Online!
+Last checked Johannesburg,South Africa Bloemfontein,South Africa
+Online!
+the distance between Johannesburg,South Africa and Port Elizabeth,South Africa is 2121.2694
+Online!
+Last checked Johannesburg,South Africa Port Elizabeth,South Africa
+Online!
+the distance between Johannesburg,South Africa and East London,South Africa is 1915.3506
+Online!
+Last checked Johannesburg,South Africa East London,South Africa
+Online!
+the distance between Johannesburg,South Africa and Polokwane,South Africa is 642.7846
+Online!
+Last checked Johannesburg,South Africa Polokwane,South Africa
+Online!
+the distance between Johannesburg,South Africa and Mbombela,South Africa is 683.8
+Online!
+Last checked Johannesburg,South Africa Mbombela,South Africa
+Online!
+the distance between Johannesburg,South Africa and Kimberley,South Africa is 955.667
+Online!
+Last checked Johannesburg,South Africa Kimberley,South Africa
+Online!
+the distance between Johannesburg,South Africa and Rustenburg,South Africa is 283.10159999999996
+Online!
+Last checked Johannesburg,South Africa Rustenburg,South Africa
+Online!
+the distance between Johannesburg,South Africa and George,South Africa is 2349.7992000000004
+Online!
+Last checked Johannesburg,South Africa George,South Africa
+Online!
+the distance between Johannesburg,South Africa and Welkom,South Africa is 512.1066
+Online!
+Last checked Johannesburg,South Africa Welkom,South Africa
+Online!
+the distance between Johannesburg,South Africa and Mthatha,South Africa is 1709.679
+Online!
+Last checked Johannesburg,South Africa Mthatha,South Africa
+Online!
+the distance between Johannesburg,South Africa and Vereeniging,South Africa is 130.9058
+Online!
+Last checked Johannesburg,South Africa Vereeniging,South Africa
+Online!
+the distance between Johannesburg,South Africa and Benoni,South Africa is 61.6616
+Online!
+Last checked Johannesburg,South Africa Benoni,South Africa
+Online!
+the distance between Johannesburg,South Africa and Pietermaritzburg,South Africa is 982.9758
+Online!
+Last checked Johannesburg,South Africa Pietermaritzburg,South Africa
+Online!
+the distance between Johannesburg,South Africa and Springs,South Africa is 94.866
+Online!
+Last checked Johannesburg,South Africa Springs,South Africa
+Online!
+the distance between Johannesburg,South Africa and Tembisa,South Africa is 84.7146
+Online!
+Last checked Johannesburg,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa Mossel Bay,South Africa
+Online!
+the distance between Pretoria,South Africa and Durban,South Africa is 1229.763
+Online!
+Last checked Pretoria,South Africa Durban,South Africa
+Online!
+the distance between Pretoria,South Africa and Cape Town,South Africa is 2909.2097999999996
+Online!
+Last checked Pretoria,South Africa Cape Town,South Africa
+Online!
+the distance between Pretoria,South Africa and Bloemfontein,South Africa is 903.9884000000001
+Online!
+Last checked Pretoria,South Africa Bloemfontein,South Africa
+Online!
+the distance between Pretoria,South Africa and Port Elizabeth,South Africa is 2231.8498
+Online!
+Last checked Pretoria,South Africa Port Elizabeth,South Africa
+Online!
+the distance between Pretoria,South Africa and East London,South Africa is 2025.931
+Online!
+Last checked Pretoria,South Africa East London,South Africa
+Online!
+the distance between Pretoria,South Africa and Polokwane,South Africa is 532.0626
+Online!
+Last checked Pretoria,South Africa Polokwane,South Africa
+Online!
+the distance between Pretoria,South Africa and Mbombela,South Africa is 639.5305999999999
+Online!
+Last checked Pretoria,South Africa Mbombela,South Africa
+Online!
+the distance between Pretoria,South Africa and Kimberley,South Africa is 1066.2476000000001
+Online!
+Last checked Pretoria,South Africa Kimberley,South Africa
+Online!
+the distance between Pretoria,South Africa and Rustenburg,South Africa is 227.111
+Online!
+Last checked Pretoria,South Africa Rustenburg,South Africa
+Online!
+the distance between Pretoria,South Africa and George,South Africa is 2460.3796
+Online!
+Last checked Pretoria,South Africa George,South Africa
+Online!
+the distance between Pretoria,South Africa and Welkom,South Africa is 622.6872
+Online!
+Last checked Pretoria,South Africa Welkom,South Africa
+Online!
+the distance between Pretoria,South Africa and Mthatha,South Africa is 1803.0206
+Online!
+Last checked Pretoria,South Africa Mthatha,South Africa
+Online!
+the distance between Pretoria,South Africa and Vereeniging,South Africa is 237.8366
+Online!
+Last checked Pretoria,South Africa Vereeniging,South Africa
+Online!
+the distance between Pretoria,South Africa and Benoni,South Africa is 127.878
+Online!
+Last checked Pretoria,South Africa Benoni,South Africa
+Online!
+the distance between Pretoria,South Africa and Pietermaritzburg,South Africa is 1076.3174
+Online!
+Last checked Pretoria,South Africa Pietermaritzburg,South Africa
+Online!
+the distance between Pretoria,South Africa and Springs,South Africa is 166.497
+Online!
+Last checked Pretoria,South Africa Springs,South Africa
+Online!
+the distance between Pretoria,South Africa and Tembisa,South Africa is 70.1014
+Online!
+Last checked Pretoria,South Africa Tembisa,South Africa
+Online!
+the distance between Pretoria,South Africa and Mossel Bay,South Africa is 2552.9604
+Online!
+Last checked Pretoria,South Africa Mossel Bay,South Africa
+Online!
+the distance between Durban,South Africa and Cape Town,South Africa is 3270.828
+Online!
+Last checked Durban,South Africa Cape Town,South Africa
+Online!
+the distance between Durban,South Africa and Bloemfontein,South Africa is 1265.6066
+Online!
+Last checked Durban,South Africa Bloemfontein,South Africa
+Online!
+the distance between Durban,South Africa and Port Elizabeth,South Africa is 1815.9958000000001
+Online!
+Last checked Durban,South Africa Port Elizabeth,South Africa
+Online!
+the distance between Durban,South Africa and East London,South Africa is 1303.0098
+Online!
+Last checked Durban,South Africa East London,South Africa
+Online!
+the distance between Durban,South Africa and Polokwane,South Africa is 1755.5423999999998
+Online!
+Last checked Durban,South Africa Polokwane,South Africa
+Online!
+the distance between Durban,South Africa and Mbombela,South Africa is 1418.4366
+Online!
+Last checked Durban,South Africa Mbombela,South Africa
+Online!
+the distance between Durban,South Africa and Kimberley,South Africa is 1586.1334
+Online!
+Last checked Durban,South Africa Kimberley,South Africa
+Online!
+the distance between Durban,South Africa and Rustenburg,South Africa is 1415.6278
+Online!
+Last checked Durban,South Africa Rustenburg,South Africa
+Online!
+the distance between Durban,South Africa and George,South Africa is 2510.578
+Online!
+Last checked Durban,South Africa George,South Africa
+Online!
+the distance between Durban,South Africa and Welkom,South Africa is 1132.1096
+Online!
+Last checked Durban,South Africa Welkom,South Africa
+Online!
+the distance between Durban,South Africa and Mthatha,South Africa is 848.6378000000001
+Online!
+Last checked Durban,South Africa Mthatha,South Africa
+Online!
+the distance between Durban,South Africa and Vereeniging,South Africa is 1074.5834
+Online!
+Last checked Durban,South Africa Vereeniging,South Africa
+Online!
+the distance between Durban,South Africa and Benoni,South Africa is 1107.633
+Online!
+Last checked Durban,South Africa Benoni,South Africa
+Online!
+the distance between Durban,South Africa and Pietermaritzburg,South Africa is 158.0238
+Online!
+Last checked Durban,South Africa Pietermaritzburg,South Africa
+Online!
+the distance between Durban,South Africa and Springs,South Africa is 1096.1933999999999
+Online!
+Last checked Durban,South Africa Springs,South Africa
+Online!
+the distance between Durban,South Africa and Tembisa,South Africa is 1192.423
+Online!
+Last checked Durban,South Africa Tembisa,South Africa
+Online!
+the distance between Durban,South Africa and Mossel Bay,South Africa is 2603.1587999999997
+Online!
+Last checked Durban,South Africa Mossel Bay,South Africa
+Online!
+the distance between Cape Town,South Africa and Bloemfontein,South Africa is 2002.548
+Online!
+Last checked Cape Town,South Africa Bloemfontein,South Africa
+Online!
+the distance between Cape Town,South Africa and Port Elizabeth,South Africa is 1572.077
+Online!
+Last checked Cape Town,South Africa Port Elizabeth,South Africa
+Online!
+the distance between Cape Town,South Africa and East London,South Africa is 2123.0082
+Online!
+Last checked Cape Town,South Africa East London,South Africa
+Online!
+the distance between Cape Town,South Africa and Polokwane,South Africa is 3431.721
+Online!
+Last checked Cape Town,South Africa Polokwane,South Africa
+Online!
+the distance between Cape Town,South Africa and Mbombela,South Africa is 3489.5812
+Online!
+Last checked Cape Town,South Africa Mbombela,South Africa
+Online!
+the distance between Cape Town,South Africa and Kimberley,South Africa is 1910.6391999999998
+Online!
+Last checked Cape Town,South Africa Kimberley,South Africa
+Online!
+the distance between Cape Town,South Africa and Rustenburg,South Africa is 3047.9844
+Online!
+Last checked Cape Town,South Africa Rustenburg,South Africa
+Online!
+the distance between Cape Town,South Africa and George,South Africa is 863.9766
+Online!
+Last checked Cape Town,South Africa George,South Africa
+Online!
+the distance between Cape Town,South Africa and Welkom,South Africa is 2345.5922
+Online!
+Last checked Cape Town,South Africa Welkom,South Africa
+Online!
+the distance between Cape Town,South Africa and Mthatha,South Africa is 2515.4957999999997
+Online!
+Last checked Cape Town,South Africa Mthatha,South Africa
+Online!
+the distance between Cape Town,South Africa and Vereeniging,South Africa is 2701.1094
+Online!
+Last checked Cape Town,South Africa Vereeniging,South Africa
+Online!
+the distance between Cape Town,South Africa and Benoni,South Africa is 2867.4428
+Online!
+Last checked Cape Town,South Africa Benoni,South Africa
+Online!
+the distance between Cape Town,South Africa and Pietermaritzburg,South Africa is 3116.7763999999997
+Online!
+Last checked Cape Town,South Africa Pietermaritzburg,South Africa
+Online!
+the distance between Cape Town,South Africa and Springs,South Africa is 2882.0843999999997
+Online!
+Last checked Cape Town,South Africa Springs,South Africa
+Online!
+the distance between Cape Town,South Africa and Tembisa,South Africa is 2890.4957999999997
+Online!
+Last checked Cape Town,South Africa Tembisa,South Africa
+Online!
+the distance between Cape Town,South Africa and Mossel Bay,South Africa is 781.084
+Online!
+Last checked Cape Town,South Africa Mossel Bay,South Africa
+Online!
+the distance between Bloemfontein,South Africa and Port Elizabeth,South Africa is 1335.373
+Online!
+Last checked Bloemfontein,South Africa Port Elizabeth,South Africa
+Online!
+the distance between Bloemfontein,South Africa and East London,South Africa is 1116.354
+Online!
+Last checked Bloemfontein,South Africa East London,South Africa
+Online!
+the distance between Bloemfontein,South Africa and Polokwane,South Africa is 1428.126
+Online!
+Last checked Bloemfontein,South Africa Polokwane,South Africa
+Online!
+the distance between Bloemfontein,South Africa and Mbombela,South Africa is 1485.9862
+Online!
+Last checked Bloemfontein,South Africa Mbombela,South Africa
+Online!
+the distance between Bloemfontein,South Africa and Kimberley,South Africa is 328.0206
+Online!
+Last checked Bloemfontein,South Africa Kimberley,South Africa
+Online!
+the distance between Bloemfontein,South Africa and Rustenburg,South Africa is 1044.3896
+Online!
+Last checked Bloemfontein,South Africa Rustenburg,South Africa
+Online!
+the distance between Bloemfontein,South Africa and George,South Africa is 1563.9028
+Online!
+Last checked Bloemfontein,South Africa George,South Africa
+Online!
+the distance between Bloemfontein,South Africa and Welkom,South Africa is 341.88840000000005
+Online!
+Last checked Bloemfontein,South Africa Welkom,South Africa
+Online!
+the distance between Bloemfontein,South Africa and Mthatha,South Africa is 1041.1152
+Online!
+Last checked Bloemfontein,South Africa Mthatha,South Africa
+Online!
+the distance between Bloemfontein,South Africa and Vereeniging,South Africa is 697.5146
+Online!
+Last checked Bloemfontein,South Africa Vereeniging,South Africa
+Online!
+the distance between Bloemfontein,South Africa and Benoni,South Africa is 863.8478
+Online!
+Last checked Bloemfontein,South Africa Benoni,South Africa
+Online!
+the distance between Bloemfontein,South Africa and Pietermaritzburg,South Africa is 1113.1816000000001
+Online!
+Last checked Bloemfontein,South Africa Pietermaritzburg,South Africa
+Online!
+the distance between Bloemfontein,South Africa and Springs,South Africa is 878.4894
+Online!
+Last checked Bloemfontein,South Africa Springs,South Africa
+Online!
+the distance between Bloemfontein,South Africa and Tembisa,South Africa is 886.9008
+Online!
+Last checked Bloemfontein,South Africa Tembisa,South Africa
+Online!
+the distance between Bloemfontein,South Africa and Mossel Bay,South Africa is 1656.4836
+Online!
+Last checked Bloemfontein,South Africa Mossel Bay,South Africa
+Online!
+the distance between Port Elizabeth,South Africa and East London,South Africa is 576.0208
+Online!
+Last checked Port Elizabeth,South Africa East London,South Africa
+Online!
+the distance between Port Elizabeth,South Africa and Polokwane,South Africa is 2760.2286
+Online!
+Last checked Port Elizabeth,South Africa Polokwane,South Africa
+Online!
+the distance between Port Elizabeth,South Africa and Mbombela,South Africa is 2818.0888
+Online!
+Last checked Port Elizabeth,South Africa Mbombela,South Africa
+Online!
+the distance between Port Elizabeth,South Africa and Kimberley,South Africa is 1641.0678
+Online!
+Last checked Port Elizabeth,South Africa Kimberley,South Africa
+Online!
+the distance between Port Elizabeth,South Africa and Rustenburg,South Africa is 2376.492
+Online!
+Last checked Port Elizabeth,South Africa Rustenburg,South Africa
+Online!
+the distance between Port Elizabeth,South Africa and George,South Africa is 717.4904
+Online!
+Last checked Port Elizabeth,South Africa George,South Africa
+Online!
+the distance between Port Elizabeth,South Africa and Welkom,South Africa is 1674.0998
+Online!
+Last checked Port Elizabeth,South Africa Welkom,South Africa
+Online!
+the distance between Port Elizabeth,South Africa and Mthatha,South Africa is 968.5084
+Online!
+Last checked Port Elizabeth,South Africa Mthatha,South Africa
+Online!
+the distance between Port Elizabeth,South Africa and Vereeniging,South Africa is 2029.617
+Online!
+Last checked Port Elizabeth,South Africa Vereeniging,South Africa
+Online!
+the distance between Port Elizabeth,South Africa and Benoni,South Africa is 2195.9503999999997
+Online!
+Last checked Port Elizabeth,South Africa Benoni,South Africa
+Online!
+the distance between Port Elizabeth,South Africa and Pietermaritzburg,South Africa is 1687.5268
+Online!
+Last checked Port Elizabeth,South Africa Pietermaritzburg,South Africa
+Online!
+the distance between Port Elizabeth,South Africa and Springs,South Africa is 2210.592
+Online!
+Last checked Port Elizabeth,South Africa Springs,South Africa
+Online!
+the distance between Port Elizabeth,South Africa and Tembisa,South Africa is 2219.0034
+Online!
+Last checked Port Elizabeth,South Africa Tembisa,South Africa
+Online!
+the distance between Port Elizabeth,South Africa and Mossel Bay,South Africa is 810.0712
+Online!
+Last checked Port Elizabeth,South Africa Mossel Bay,South Africa
+Online!
+the distance between East London,South Africa and Polokwane,South Africa is 2547.7457999999997
+Online!
+Last checked East London,South Africa Polokwane,South Africa
+Online!
+the distance between East London,South Africa and Mbombela,South Africa is 2605.606
+Online!
+Last checked East London,South Africa Mbombela,South Africa
+Online!
+the distance between East London,South Africa and Kimberley,South Africa is 1428.585
+Online!
+Last checked East London,South Africa Kimberley,South Africa
+Online!
+the distance between East London,South Africa and Rustenburg,South Africa is 2164.0092
+Online!
+Last checked East London,South Africa Rustenburg,South Africa
+Online!
+the distance between East London,South Africa and George,South Africa is 1271.5284
+Online!
+Last checked East London,South Africa George,South Africa
+Online!
+the distance between East London,South Africa and Welkom,South Africa is 1461.617
+Online!
+Last checked East London,South Africa Welkom,South Africa
+Online!
+the distance between East London,South Africa and Mthatha,South Africa is 454.29859999999996
+Online!
+Last checked East London,South Africa Mthatha,South Africa
+Online!
+the distance between East London,South Africa and Vereeniging,South Africa is 1817.1342
+Online!
+Last checked East London,South Africa Vereeniging,South Africa
+Online!
+the distance between East London,South Africa and Benoni,South Africa is 1983.4676000000002
+Online!
+Last checked East London,South Africa Benoni,South Africa
+Online!
+the distance between East London,South Africa and Pietermaritzburg,South Africa is 1173.317
+Online!
+Last checked East London,South Africa Pietermaritzburg,South Africa
+Online!
+the distance between East London,South Africa and Springs,South Africa is 1998.1091999999999
+Online!
+Last checked East London,South Africa Springs,South Africa
+Online!
+the distance between East London,South Africa and Tembisa,South Africa is 2006.5206
+Online!
+Last checked East London,South Africa Tembisa,South Africa
+Online!
+the distance between East London,South Africa and Mossel Bay,South Africa is 1364.1091999999999
+Online!
+Last checked East London,South Africa Mossel Bay,South Africa
+Online!
+the distance between Polokwane,South Africa and Mbombela,South Africa is 600.6786
+Online!
+Last checked Polokwane,South Africa Mbombela,South Africa
+Online!
+the distance between Polokwane,South Africa and Kimberley,South Africa is 1591.764
+Online!
+Last checked Polokwane,South Africa Kimberley,South Africa
+Online!
+the distance between Polokwane,South Africa and Rustenburg,South Africa is 721.0282
+Online!
+Last checked Polokwane,South Africa Rustenburg,South Africa
+Online!
+the distance between Polokwane,South Africa and George,South Africa is 2985.8962
+Online!
+Last checked Polokwane,South Africa George,South Africa
+Online!
+the distance between Polokwane,South Africa and Welkom,South Africa is 1148.2036
+Online!
+Last checked Polokwane,South Africa Welkom,South Africa
+Online!
+the distance between Polokwane,South Africa and Mthatha,South Africa is 2328.5372
+Online!
+Last checked Polokwane,South Africa Mthatha,South Africa
+Online!
+the distance between Polokwane,South Africa and Vereeniging,South Africa is 763.353
+Online!
+Last checked Polokwane,South Africa Vereeniging,South Africa
+Online!
+the distance between Polokwane,South Africa and Benoni,South Africa is 643.509
+Online!
+Last checked Polokwane,South Africa Benoni,South Africa
+Online!
+the distance between Polokwane,South Africa and Pietermaritzburg,South Africa is 1601.8338
+Online!
+Last checked Polokwane,South Africa Pietermaritzburg,South Africa
+Online!
+the distance between Polokwane,South Africa and Springs,South Africa is 682.128
+Online!
+Last checked Polokwane,South Africa Springs,South Africa
+Online!
+the distance between Polokwane,South Africa and Tembisa,South Africa is 585.7324
+Online!
+Last checked Polokwane,South Africa Tembisa,South Africa
+Online!
+the distance between Polokwane,South Africa and Mossel Bay,South Africa is 3078.477
+Online!
+Last checked Polokwane,South Africa Mossel Bay,South Africa
+Online!
+the distance between Mbombela,South Africa and Kimberley,South Africa is 1648.561
+Online!
+Last checked Mbombela,South Africa Kimberley,South Africa
+Online!
+the distance between Mbombela,South Africa and Rustenburg,South Africa is 872.6216
+Online!
+Last checked Mbombela,South Africa Rustenburg,South Africa
+Online!
+the distance between Mbombela,South Africa and George,South Africa is 3042.6932
+Online!
+Last checked Mbombela,South Africa George,South Africa
+Online!
+the distance between Mbombela,South Africa and Welkom,South Africa is 1205.0006
+Online!
+Last checked Mbombela,South Africa Welkom,South Africa
+Online!
+the distance between Mbombela,South Africa and Mthatha,South Africa is 1991.499
+Online!
+Last checked Mbombela,South Africa Mthatha,South Africa
+Online!
+the distance between Mbombela,South Africa and Vereeniging,South Africa is 800.1154
+Online!
+Last checked Mbombela,South Africa Vereeniging,South Africa
+Online!
+the distance between Mbombela,South Africa and Benoni,South Africa is 631.1338000000001
+Online!
+Last checked Mbombela,South Africa Benoni,South Africa
+Online!
+the distance between Mbombela,South Africa and Pietermaritzburg,South Africa is 1264.7956000000001
+Online!
+Last checked Mbombela,South Africa Pietermaritzburg,South Africa
+Online!
+the distance between Mbombela,South Africa and Springs,South Africa is 615.3596
+Online!
+Last checked Mbombela,South Africa Springs,South Africa
+Online!
+the distance between Mbombela,South Africa and Tembisa,South Africa is 691.4238
+Online!
+Last checked Mbombela,South Africa Tembisa,South Africa
+Online!
+the distance between Mbombela,South Africa and Mossel Bay,South Africa is 3135.2738
+Online!
+Last checked Mbombela,South Africa Mossel Bay,South Africa
+Online!
+the distance between Kimberley,South Africa and Rustenburg,South Africa is 952.609
+Online!
+Last checked Kimberley,South Africa Rustenburg,South Africa
+Online!
+the distance between Kimberley,South Africa and George,South Africa is 1460.3968
+Online!
+Last checked Kimberley,South Africa George,South Africa
+Online!
+the distance between Kimberley,South Africa and Welkom,South Africa is 602.4086
+Online!
+Last checked Kimberley,South Africa Welkom,South Africa
+Online!
+the distance between Kimberley,South Africa and Mthatha,South Africa is 1354.3234
+Online!
+Last checked Kimberley,South Africa Mthatha,South Africa
+Online!
+the distance between Kimberley,South Africa and Vereeniging,South Africa is 1015.903
+Online!
+Last checked Kimberley,South Africa Vereeniging,South Africa
+Online!
+the distance between Kimberley,South Africa and Benoni,South Africa is 1027.116
+Online!
+Last checked Kimberley,South Africa Benoni,South Africa
+Online!
+the distance between Kimberley,South Africa and Pietermaritzburg,South Africa is 1431.57
+Online!
+Last checked Kimberley,South Africa Pietermaritzburg,South Africa
+Online!
+the distance between Kimberley,South Africa and Springs,South Africa is 1041.7576
+Online!
+Last checked Kimberley,South Africa Springs,South Africa
+Online!
+the distance between Kimberley,South Africa and Tembisa,South Africa is 1050.169
+Online!
+Last checked Kimberley,South Africa Tembisa,South Africa
+Online!
+the distance between Kimberley,South Africa and Mossel Bay,South Africa is 1552.9776000000002
+Online!
+Last checked Kimberley,South Africa Mossel Bay,South Africa
+Online!
+the distance between Rustenburg,South Africa and George,South Africa is 2600.7732
+Online!
+Last checked Rustenburg,South Africa George,South Africa
+Online!
+the distance between Rustenburg,South Africa and Welkom,South Africa is 763.0806
+Online!
+Last checked Rustenburg,South Africa Welkom,South Africa
+Online!
+the distance between Rustenburg,South Africa and Mthatha,South Africa is 1987.4748
+Online!
+Last checked Rustenburg,South Africa Mthatha,South Africa
+Online!
+the distance between Rustenburg,South Africa and Vereeniging,South Africa is 393.0816
+Online!
+Last checked Rustenburg,South Africa Vereeniging,South Africa
+Online!
+the distance between Rustenburg,South Africa and Benoni,South Africa is 373.0268
+Online!
+Last checked Rustenburg,South Africa Benoni,South Africa
+Online!
+the distance between Rustenburg,South Africa and Pietermaritzburg,South Africa is 1260.7713999999999
+Online!
+Last checked Rustenburg,South Africa Pietermaritzburg,South Africa
+Online!
+the distance between Rustenburg,South Africa and Springs,South Africa is 411.6458
+Online!
+Last checked Rustenburg,South Africa Springs,South Africa
+Online!
+the distance between Rustenburg,South Africa and Tembisa,South Africa is 315.2502
+Online!
+Last checked Rustenburg,South Africa Tembisa,South Africa
+Online!
+the distance between Rustenburg,South Africa and Mossel Bay,South Africa is 2693.354
+Online!
+Last checked Rustenburg,South Africa Mossel Bay,South Africa
+Online!
+the distance between George,South Africa and Welkom,South Africa is 1896.8438
+Online!
+Last checked George,South Africa Welkom,South Africa
+Online!
+the distance between George,South Africa and Mthatha,South Africa is 1662.6373999999998
+Online!
+Last checked George,South Africa Mthatha,South Africa
+Online!
+the distance between George,South Africa and Vereeniging,South Africa is 2252.361
+Online!
+Last checked George,South Africa Vereeniging,South Africa
+Online!
+the distance between George,South Africa and Benoni,South Africa is 2418.6944
+Online!
+Last checked George,South Africa Benoni,South Africa
+Online!
+the distance between George,South Africa and Pietermaritzburg,South Africa is 2668.028
+Online!
+Last checked George,South Africa Pietermaritzburg,South Africa
+Online!
+the distance between George,South Africa and Springs,South Africa is 2433.336
+Online!
+Last checked George,South Africa Springs,South Africa
+Online!
+the distance between George,South Africa and Tembisa,South Africa is 2441.7473999999997
+Online!
+Last checked George,South Africa Tembisa,South Africa
+Online!
+the distance between George,South Africa and Mossel Bay,South Africa is 104.07719999999999
+Online!
+Last checked George,South Africa Mossel Bay,South Africa
+Online!
+the distance between Welkom,South Africa and Mthatha,South Africa is 1388.4678000000001
+Online!
+Last checked Welkom,South Africa Mthatha,South Africa
+Online!
+the distance between Welkom,South Africa and Vereeniging,South Africa is 414.6102
+Online!
+Last checked Welkom,South Africa Vereeniging,South Africa
+Online!
+the distance between Welkom,South Africa and Benoni,South Africa is 580.9436
+Online!
+Last checked Welkom,South Africa Benoni,South Africa
+Online!
+the distance between Welkom,South Africa and Pietermaritzburg,South Africa is 978.0272
+Online!
+Last checked Welkom,South Africa Pietermaritzburg,South Africa
+Online!
+the distance between Welkom,South Africa and Springs,South Africa is 595.5852
+Online!
+Last checked Welkom,South Africa Springs,South Africa
+Online!
+the distance between Welkom,South Africa and Tembisa,South Africa is 603.9966
+Online!
+Last checked Welkom,South Africa Tembisa,South Africa
+Online!
+the distance between Welkom,South Africa and Mossel Bay,South Africa is 1990.736
+Online!
+Last checked Welkom,South Africa Mossel Bay,South Africa
+Online!
+the distance between Mthatha,South Africa and Vereeniging,South Africa is 1647.6786000000002
+Online!
+Last checked Mthatha,South Africa Vereeniging,South Africa
+Online!
+the distance between Mthatha,South Africa and Benoni,South Africa is 1680.7282
+Online!
+Last checked Mthatha,South Africa Benoni,South Africa
+Online!
+the distance between Mthatha,South Africa and Pietermaritzburg,South Africa is 720.4046
+Online!
+Last checked Mthatha,South Africa Pietermaritzburg,South Africa
+Online!
+the distance between Mthatha,South Africa and Springs,South Africa is 1669.2886
+Online!
+Last checked Mthatha,South Africa Springs,South Africa
+Online!
+the distance between Mthatha,South Africa and Tembisa,South Africa is 1765.5184
+Online!
+Last checked Mthatha,South Africa Tembisa,South Africa
+Online!
+the distance between Mthatha,South Africa and Mossel Bay,South Africa is 1754.5313999999998
+Online!
+Last checked Mthatha,South Africa Mossel Bay,South Africa
+Online!
+the distance between Vereeniging,South Africa and Benoni,South Africa is 178.483
+Online!
+Last checked Vereeniging,South Africa Benoni,South Africa
+Online!
+the distance between Vereeniging,South Africa and Pietermaritzburg,South Africa is 929.5532
+Online!
+Last checked Vereeniging,South Africa Pietermaritzburg,South Africa
+Online!
+the distance between Vereeniging,South Africa and Springs,South Africa is 193.12460000000002
+Online!
+Last checked Vereeniging,South Africa Springs,South Africa
+Online!
+the distance between Vereeniging,South Africa and Tembisa,South Africa is 201.536
+Online!
+Last checked Vereeniging,South Africa Tembisa,South Africa
+Online!
+the distance between Vereeniging,South Africa and Mossel Bay,South Africa is 2346.1216
+Online!
+Last checked Vereeniging,South Africa Mossel Bay,South Africa
+Online!
+the distance between Benoni,South Africa and Pietermaritzburg,South Africa is 953.5578
+Online!
+Last checked Benoni,South Africa Pietermaritzburg,South Africa
+Online!
+the distance between Benoni,South Africa and Springs,South Africa is 38.222
+Online!
+Last checked Benoni,South Africa Springs,South Africa
+Online!
+the distance between Benoni,South Africa and Tembisa,South Africa is 74.0632
+Online!
+Last checked Benoni,South Africa Tembisa,South Africa
+Online!
+the distance between Benoni,South Africa and Mossel Bay,South Africa is 2510.8416
+Online!
+Last checked Benoni,South Africa Mossel Bay,South Africa
+Online!
+the distance between Pietermaritzburg,South Africa and Springs,South Africa is 942.822
+Online!
+Last checked Pietermaritzburg,South Africa Springs,South Africa
+Online!
+the distance between Pietermaritzburg,South Africa and Tembisa,South Africa is 1039.0518
+Online!
+Last checked Pietermaritzburg,South Africa Tembisa,South Africa
+Online!
+the distance between Pietermaritzburg,South Africa and Mossel Bay,South Africa is 2761.2074
+Online!
+Last checked Pietermaritzburg,South Africa Mossel Bay,South Africa
+Online!
+the distance between Springs,South Africa and Tembisa,South Africa is 113.2038
+Online!
+Last checked Springs,South Africa Tembisa,South Africa
+Online!
+the distance between Springs,South Africa and Mossel Bay,South Africa is 2525.8134
+Online!
+Last checked Springs,South Africa Mossel Bay,South Africa
+Online!
+the distance between Tembisa,South Africa and Mossel Bay,South Africa is 2534.6082
+Online!
+Last checked Tembisa,South Africa Mossel Bay,South Africa
+New round of evaluation
+The smallest distance so far is: 38.222. This is from Benoni,South Africa to Springs,South Africa
+Start: 0, Stop: 1, Steps: 1
+Check one
+Johannesburg,South Africa;
+Pretoria,South Africa;
+Durban,South Africa;
+Cape Town,South Africa;
+Bloemfontein,South Africa;
+Port Elizabeth,South Africa;
+East London,South Africa;
+Polokwane,South Africa;
+Mbombela,South Africa;
+Kimberley,South Africa;
+Rustenburg,South Africa;
+George,South Africa;
+Welkom,South Africa;
+Mthatha,South Africa;
+Vereeniging,South Africa;
+Springs,South Africa; Benoni,South Africa;
+Pietermaritzburg,South Africa;
+Tembisa,South Africa;
+Mossel Bay,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Last checked Johannesburg,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa Pretoria,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa Durban,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa Cape Town,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa East London,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa George,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Benoni,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Johannesburg,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Durban,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Cape Town,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa East London,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa George,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked Pretoria,South Africa Benoni,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Cape Town,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Durban,South Africa East London,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Durban,South Africa George,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked Durban,South Africa Springs,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa East London,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa George,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa Benoni,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa East London,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa George,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked Bloemfontein,South Africa Benoni,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa East London,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa George,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Benoni,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked East London,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked East London,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked East London,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked East London,South Africa George,South Africa
+Online!
+Online!
+Last checked East London,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked East London,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked East London,South Africa Benoni,South Africa
+Online!
+Online!
+Last checked East London,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked East London,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa George,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked Polokwane,South Africa Benoni,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa George,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked Mbombela,South Africa Springs,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa George,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa Benoni,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa George,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Benoni,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked George,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked George,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked George,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked George,South Africa Benoni,South Africa
+Online!
+Online!
+Last checked George,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked George,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked George,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked Welkom,South Africa Benoni,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Mthatha,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked Mthatha,South Africa Springs,South Africa
+Online!
+Online!
+Last checked Mthatha,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Mthatha,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Mthatha,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Benoni,South Africa
+Online!
+Online!
+Last checked Vereeniging,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Vereeniging,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Vereeniging,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Online!
+Last checked Benoni,South Africa Tembisa,South Africa
+Online!
+Online!
+Online!
+Last checked Benoni,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Tembisa,South Africa Mossel Bay,South Africa
+New round of evaluation
+The smallest distance so far is: 61.6616. This is from Johannesburg,South Africa to Benoni,South Africa
+Start: 1, Stop: -1, Steps: -1
+Check one
+Check one
+Springs,South Africa; Benoni,South Africa; Johannesburg,South Africa;
+Pretoria,South Africa;
+Durban,South Africa;
+Cape Town,South Africa;
+Bloemfontein,South Africa;
+Port Elizabeth,South Africa;
+East London,South Africa;
+Polokwane,South Africa;
+Mbombela,South Africa;
+Kimberley,South Africa;
+Rustenburg,South Africa;
+George,South Africa;
+Welkom,South Africa;
+Mthatha,South Africa;
+Vereeniging,South Africa;
+Pietermaritzburg,South Africa;
+Tembisa,South Africa;
+Mossel Bay,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Pretoria,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Durban,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa East London,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Kimberley,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Tembisa,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Durban,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Cape Town,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa East London,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa George,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Pretoria,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Cape Town,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Durban,South Africa East London,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Durban,South Africa George,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa East London,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa George,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa East London,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa George,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa East London,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa George,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked East London,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked East London,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked East London,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked East London,South Africa George,South Africa
+Online!
+Online!
+Last checked East London,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked East London,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked East London,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked East London,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa George,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa George,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa George,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa George,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked George,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked George,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked George,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked George,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked George,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked George,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Mthatha,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Mthatha,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Mthatha,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Mthatha,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Vereeniging,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Vereeniging,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Vereeniging,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Tembisa,South Africa
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Tembisa,South Africa Mossel Bay,South Africa
+New round of evaluation
+The smallest distance so far is: 70.1014. This is from Pretoria,South Africa to Tembisa,South Africa
+Start: 0, Stop: 1, Steps: 1
+Check one
+Springs,South Africa; Benoni,South Africa; Johannesburg,South Africa;
+Tembisa,South Africa; Pretoria,South Africa;
+Durban,South Africa;
+Cape Town,South Africa;
+Bloemfontein,South Africa;
+Port Elizabeth,South Africa;
+East London,South Africa;
+Polokwane,South Africa;
+Mbombela,South Africa;
+Kimberley,South Africa;
+Rustenburg,South Africa;
+George,South Africa;
+Welkom,South Africa;
+Mthatha,South Africa;
+Vereeniging,South Africa;
+Pietermaritzburg,South Africa;
+Mossel Bay,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Tembisa,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Durban,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa East London,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Kimberley,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Online!
+Last checked Johannesburg,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Online!
+Last checked Tembisa,South Africa Durban,South Africa
+Online!
+Online!
+Online!
+Last checked Tembisa,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Last checked Tembisa,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Online!
+Last checked Tembisa,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Tembisa,South Africa East London,South Africa
+Online!
+Online!
+Online!
+Last checked Pretoria,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Pretoria,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Tembisa,South Africa Kimberley,South Africa
+Online!
+Online!
+Online!
+Last checked Pretoria,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Tembisa,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Tembisa,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked Tembisa,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Tembisa,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked Tembisa,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Online!
+Last checked Tembisa,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Cape Town,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Durban,South Africa East London,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Durban,South Africa George,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa East London,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa George,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa East London,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa George,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa East London,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa George,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked East London,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked East London,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked East London,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked East London,South Africa George,South Africa
+Online!
+Online!
+Last checked East London,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked East London,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked East London,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa George,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa George,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa George,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa George,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked George,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked George,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked George,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked George,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked George,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Mthatha,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Mthatha,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Mthatha,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Vereeniging,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Vereeniging,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mossel Bay,South Africa
+New round of evaluation
+The smallest distance so far is: 84.7146. This is from Johannesburg,South Africa to Tembisa,South Africa
+Start: 0, Stop: 2, Steps: 1
+Check one
+Check one
+Springs,South Africa; Benoni,South Africa; Johannesburg,South Africa; Tembisa,South Africa; Pretoria,South Africa;
+Durban,South Africa;
+Cape Town,South Africa;
+Bloemfontein,South Africa;
+Port Elizabeth,South Africa;
+East London,South Africa;
+Polokwane,South Africa;
+Mbombela,South Africa;
+Kimberley,South Africa;
+Rustenburg,South Africa;
+George,South Africa;
+Welkom,South Africa;
+Mthatha,South Africa;
+Vereeniging,South Africa;
+Pietermaritzburg,South Africa;
+Mossel Bay,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Durban,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa East London,South Africa
+Online!
+Online!
+Online!
+Last checked Pretoria,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Kimberley,South Africa
+Online!
+Online!
+Online!
+Last checked Pretoria,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Cape Town,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Durban,South Africa East London,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Durban,South Africa George,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa East London,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa George,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa East London,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa George,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa East London,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa George,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked East London,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked East London,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked East London,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked East London,South Africa George,South Africa
+Online!
+Online!
+Last checked East London,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked East London,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked East London,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa George,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa George,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Rustenburg,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa George,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa George,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked George,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked George,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked George,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked George,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked George,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Mthatha,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Mthatha,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Mthatha,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Vereeniging,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Vereeniging,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mossel Bay,South Africa
+New round of evaluation
+The smallest distance so far is: 104.07719999999999. This is from George,South Africa to Mossel Bay,South Africa
+Start: 0, Stop: 1, Steps: 1
+Check one
+Springs,South Africa; Benoni,South Africa; Johannesburg,South Africa; Tembisa,South Africa; Pretoria,South Africa;
+Durban,South Africa;
+Cape Town,South Africa;
+Bloemfontein,South Africa;
+Port Elizabeth,South Africa;
+East London,South Africa;
+Polokwane,South Africa;
+Mbombela,South Africa;
+Kimberley,South Africa;
+Rustenburg,South Africa;
+Mossel Bay,South Africa; George,South Africa;
+Welkom,South Africa;
+Mthatha,South Africa;
+Vereeniging,South Africa;
+Pietermaritzburg,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Durban,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa East London,South Africa
+Online!
+Online!
+Online!
+Last checked Pretoria,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Kimberley,South Africa
+Online!
+Online!
+Online!
+Last checked Pretoria,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Springs,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Cape Town,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Durban,South Africa East London,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Durban,South Africa George,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Durban,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa East London,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa East London,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Bloemfontein,South Africa George,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa East London,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Port Elizabeth,South Africa George,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked East London,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked East London,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked East London,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked East London,South Africa George,South Africa
+Online!
+Online!
+Last checked East London,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked East London,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked East London,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Polokwane,South Africa George,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Mbombela,South Africa George,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa George,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa George,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Online!
+Last checked George,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked George,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked George,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked George,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Mthatha,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Mthatha,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Last checked Vereeniging,South Africa Pietermaritzburg,South Africa
+New round of evaluation
+The smallest distance so far is: 158.0238. This is from Durban,South Africa to Pietermaritzburg,South Africa
+Start: 0, Stop: 1, Steps: 1
+Check one
+Springs,South Africa; Benoni,South Africa; Johannesburg,South Africa; Tembisa,South Africa; Pretoria,South Africa;
+Pietermaritzburg,South Africa; Durban,South Africa;
+Cape Town,South Africa;
+Bloemfontein,South Africa;
+Port Elizabeth,South Africa;
+East London,South Africa;
+Polokwane,South Africa;
+Mbombela,South Africa;
+Kimberley,South Africa;
+Rustenburg,South Africa;
+Mossel Bay,South Africa; George,South Africa;
+Welkom,South Africa;
+Mthatha,South Africa;
+Vereeniging,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa East London,South Africa
+Online!
+Online!
+Online!
+Last checked Pretoria,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Kimberley,South Africa
+Online!
+Online!
+Online!
+Last checked Pretoria,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Springs,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Springs,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa East London,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Kimberley,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Durban,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa East London,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa East London,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Bloemfontein,South Africa George,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa East London,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Port Elizabeth,South Africa George,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked East London,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked East London,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked East London,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked East London,South Africa George,South Africa
+Online!
+Online!
+Last checked East London,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked East London,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Polokwane,South Africa George,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Mbombela,South Africa George,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa George,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa George,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Vereeniging,South Africa
+Online!
+Online!
+Online!
+Last checked George,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked George,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked George,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Vereeniging,South Africa
+Online!
+Online!
+Last checked Mthatha,South Africa Vereeniging,South Africa
+New round of evaluation
+The smallest distance so far is: 193.12460000000002. This is from Springs,South Africa to Vereeniging,South Africa
+Start: 0, Stop: 1, Steps: 1
+Check one
+Vereeniging,South Africa; Springs,South Africa; Benoni,South Africa; Johannesburg,South Africa; Tembisa,South Africa; Pretoria,South Africa;
+Pietermaritzburg,South Africa; Durban,South Africa;
+Cape Town,South Africa;
+Bloemfontein,South Africa;
+Port Elizabeth,South Africa;
+East London,South Africa;
+Polokwane,South Africa;
+Mbombela,South Africa;
+Kimberley,South Africa;
+Rustenburg,South Africa;
+Mossel Bay,South Africa; George,South Africa;
+Welkom,South Africa;
+Mthatha,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa East London,South Africa
+Online!
+Online!
+Online!
+Last checked Pretoria,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Pretoria,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Kimberley,South Africa
+Online!
+Online!
+Online!
+Last checked Pretoria,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa East London,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Kimberley,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Durban,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa East London,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa East London,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Bloemfontein,South Africa George,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa East London,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Port Elizabeth,South Africa George,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked East London,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked East London,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked East London,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked East London,South Africa George,South Africa
+Online!
+Online!
+Last checked East London,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Polokwane,South Africa George,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Mbombela,South Africa George,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Rustenburg,South Africa
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa George,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa George,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Rustenburg,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked George,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked George,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Mthatha,South Africa
+New round of evaluation
+The smallest distance so far is: 227.111. This is from Pretoria,South Africa to Rustenburg,South Africa
+Start: 0, Stop: 1, Steps: 1
+Check one
+Vereeniging,South Africa; Springs,South Africa; Benoni,South Africa; Johannesburg,South Africa; Tembisa,South Africa; Pretoria,South Africa; Rustenburg,South Africa;
+Pietermaritzburg,South Africa; Durban,South Africa;
+Cape Town,South Africa;
+Bloemfontein,South Africa;
+Port Elizabeth,South Africa;
+East London,South Africa;
+Polokwane,South Africa;
+Mbombela,South Africa;
+Kimberley,South Africa;
+Mossel Bay,South Africa; George,South Africa;
+Welkom,South Africa;
+Mthatha,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa East London,South Africa
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Kimberley,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa East London,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Kimberley,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Durban,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa East London,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Kimberley,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa East London,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Kimberley,South Africa
+Online!
+Online!
+Online!
+Last checked Bloemfontein,South Africa George,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa East London,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Kimberley,South Africa
+Online!
+Online!
+Online!
+Last checked Port Elizabeth,South Africa George,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked East London,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked East London,South Africa Kimberley,South Africa
+Online!
+Online!
+Online!
+Last checked East London,South Africa George,South Africa
+Online!
+Online!
+Last checked East London,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mbombela,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Kimberley,South Africa
+Online!
+Online!
+Online!
+Last checked Polokwane,South Africa George,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Kimberley,South Africa
+Online!
+Online!
+Online!
+Last checked Mbombela,South Africa George,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa George,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Kimberley,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked George,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked George,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Mthatha,South Africa
+New round of evaluation
+The smallest distance so far is: 328.0206. This is from Bloemfontein,South Africa to Kimberley,South Africa
+Start: 0, Stop: 1, Steps: 1
+Check one
+Vereeniging,South Africa; Springs,South Africa; Benoni,South Africa; Johannesburg,South Africa; Tembisa,South Africa; Pretoria,South Africa; Rustenburg,South Africa;
+Pietermaritzburg,South Africa; Durban,South Africa;
+Cape Town,South Africa;
+Kimberley,South Africa; Bloemfontein,South Africa;
+Port Elizabeth,South Africa;
+East London,South Africa;
+Polokwane,South Africa;
+Mbombela,South Africa;
+Mossel Bay,South Africa; George,South Africa;
+Welkom,South Africa;
+Mthatha,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa East London,South Africa
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Bloemfontein,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa East London,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Durban,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa East London,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Bloemfontein,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Bloemfontein,South Africa East London,South Africa
+Online!
+Online!
+Online!
+Last checked Bloemfontein,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Bloemfontein,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked Bloemfontein,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa East London,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Port Elizabeth,South Africa George,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked East London,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked East London,South Africa George,South Africa
+Online!
+Online!
+Last checked East London,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Polokwane,South Africa George,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Mbombela,South Africa George,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Welkom,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked George,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked George,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Welkom,South Africa Mthatha,South Africa
+New round of evaluation
+The smallest distance so far is: 341.88840000000005. This is from Bloemfontein,South Africa to Welkom,South Africa
+Start: 0, Stop: 1, Steps: 1
+Check one
+Vereeniging,South Africa; Springs,South Africa; Benoni,South Africa; Johannesburg,South Africa; Tembisa,South Africa; Pretoria,South Africa; Rustenburg,South Africa;
+Pietermaritzburg,South Africa; Durban,South Africa;
+Cape Town,South Africa;
+Kimberley,South Africa; Bloemfontein,South Africa; Welkom,South Africa;
+Port Elizabeth,South Africa;
+East London,South Africa;
+Polokwane,South Africa;
+Mbombela,South Africa;
+Mossel Bay,South Africa; George,South Africa;
+Mthatha,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa East London,South Africa
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Vereeniging,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Welkom,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa East London,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Durban,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa Kimberley,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa East London,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa East London,South Africa
+Online!
+Online!
+Online!
+Last checked Welkom,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Welkom,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa East London,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Port Elizabeth,South Africa George,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked East London,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked East London,South Africa George,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Polokwane,South Africa George,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Mbombela,South Africa George,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked George,South Africa Mthatha,South Africa
+New round of evaluation
+The smallest distance so far is: 414.6102. This is from Vereeniging,South Africa to Welkom,South Africa
+Start: 2, Stop: -1, Steps: -1
+Check one
+Check one
+Check one
+Kimberley,South Africa; Bloemfontein,South Africa; Welkom,South Africa; Vereeniging,South Africa; Springs,South Africa; Benoni,South Africa; Johannesburg,South Africa; Tembisa,South Africa; Pretoria,South Africa; Rustenburg,South Africa;
+Pietermaritzburg,South Africa; Durban,South Africa;
+Cape Town,South Africa;
+Port Elizabeth,South Africa;
+East London,South Africa;
+Polokwane,South Africa;
+Mbombela,South Africa;
+Mossel Bay,South Africa; George,South Africa;
+Mthatha,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa East London,South Africa
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa East London,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Durban,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa East London,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa East London,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Port Elizabeth,South Africa George,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked East London,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked East London,South Africa George,South Africa
+Online!
+Online!
+Last checked East London,South Africa Mthatha,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Polokwane,South Africa George,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Mbombela,South Africa George,South Africa
+Online!
+Online!
+Last checked Mbombela,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked George,South Africa Mthatha,South Africa
+New round of evaluation
+The smallest distance so far is: 454.29859999999996. This is from East London,South Africa to Mthatha,South Africa
+Start: 0, Stop: 1, Steps: 1
+Check one
+Kimberley,South Africa; Bloemfontein,South Africa; Welkom,South Africa; Vereeniging,South Africa; Springs,South Africa; Benoni,South Africa; Johannesburg,South Africa; Tembisa,South Africa; Pretoria,South Africa; Rustenburg,South Africa;
+Pietermaritzburg,South Africa; Durban,South Africa;
+Cape Town,South Africa;
+Port Elizabeth,South Africa;
+Mthatha,South Africa; East London,South Africa;
+Polokwane,South Africa;
+Mbombela,South Africa;
+Mossel Bay,South Africa; George,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa George,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Durban,South Africa George,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa East London,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Online!
+Last checked Port Elizabeth,South Africa East London,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Port Elizabeth,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Port Elizabeth,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Mthatha,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Mthatha,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked East London,South Africa George,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Polokwane,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Mbombela,South Africa George,South Africa
+New round of evaluation
+The smallest distance so far is: 576.0208. This is from Port Elizabeth,South Africa to East London,South Africa
+Start: 1, Stop: -1, Steps: -1
+Check one
+Check one
+Kimberley,South Africa; Bloemfontein,South Africa; Welkom,South Africa; Vereeniging,South Africa; Springs,South Africa; Benoni,South Africa; Johannesburg,South Africa; Tembisa,South Africa; Pretoria,South Africa; Rustenburg,South Africa;
+Pietermaritzburg,South Africa; Durban,South Africa;
+Cape Town,South Africa;
+Mthatha,South Africa; East London,South Africa; Port Elizabeth,South Africa;
+Polokwane,South Africa;
+Mbombela,South Africa;
+Mossel Bay,South Africa; George,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa George,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Durban,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Polokwane,South Africa
+Online!
+Online!
+Last checked Cape Town,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Online!
+Last checked Mthatha,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Mthatha,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Port Elizabeth,South Africa George,South Africa
+Online!
+Online!
+Last checked Polokwane,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Polokwane,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Mbombela,South Africa George,South Africa
+New round of evaluation
+The smallest distance so far is: 600.6786. This is from Polokwane,South Africa to Mbombela,South Africa
+Start: 0, Stop: 1, Steps: 1
+Check one
+Kimberley,South Africa; Bloemfontein,South Africa; Welkom,South Africa; Vereeniging,South Africa; Springs,South Africa; Benoni,South Africa; Johannesburg,South Africa; Tembisa,South Africa; Pretoria,South Africa; Rustenburg,South Africa;
+Pietermaritzburg,South Africa; Durban,South Africa;
+Cape Town,South Africa;
+Mthatha,South Africa; East London,South Africa; Port Elizabeth,South Africa;
+Mbombela,South Africa; Polokwane,South Africa;
+Mossel Bay,South Africa; George,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa George,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Durban,South Africa George,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa Port Elizabeth,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Mthatha,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Port Elizabeth,South Africa George,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Polokwane,South Africa George,South Africa
+New round of evaluation
+The smallest distance so far is: 717.4904. This is from Port Elizabeth,South Africa to George,South Africa
+Start: 1, Stop: -1, Steps: -1
+Check one
+Check one
+Kimberley,South Africa; Bloemfontein,South Africa; Welkom,South Africa; Vereeniging,South Africa; Springs,South Africa; Benoni,South Africa; Johannesburg,South Africa; Tembisa,South Africa; Pretoria,South Africa; Rustenburg,South Africa;
+Pietermaritzburg,South Africa; Durban,South Africa;
+Cape Town,South Africa;
+Mthatha,South Africa; East London,South Africa; Port Elizabeth,South Africa; George,South Africa; Mossel Bay,South Africa;
+Mbombela,South Africa; Polokwane,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Pietermaritzburg,South Africa
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mthatha,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Pietermaritzburg,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa Mossel Bay,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Mthatha,South Africa Mbombela,South Africa
+New round of evaluation
+The smallest distance so far is: 720.4046. This is from Pietermaritzburg,South Africa to Mthatha,South Africa
+Start: 0, Stop: 5, Steps: 1
+Check one
+Check one
+Check one
+Check one
+Check one
+Kimberley,South Africa; Bloemfontein,South Africa; Welkom,South Africa; Vereeniging,South Africa; Springs,South Africa; Benoni,South Africa; Johannesburg,South Africa; Tembisa,South Africa; Pretoria,South Africa; Rustenburg,South Africa;
+Mossel Bay,South Africa; George,South Africa; Port Elizabeth,South Africa; East London,South Africa; Mthatha,South Africa; Pietermaritzburg,South Africa; Durban,South Africa;
+Cape Town,South Africa;
+Mbombela,South Africa; Polokwane,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Durban,South Africa
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Rustenburg,South Africa Polokwane,South Africa
+Online!
+Online!
+Online!
+Last checked Mossel Bay,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Durban,South Africa Mbombela,South Africa
+Online!
+Online!
+Online!
+Last checked Cape Town,South Africa Polokwane,South Africa
+New round of evaluation
+The smallest distance so far is: 721.0282. This is from Rustenburg,South Africa to Polokwane,South Africa
+Start: 1, Stop: -1, Steps: -1
+Check one
+Check one
+Kimberley,South Africa; Bloemfontein,South Africa; Welkom,South Africa; Vereeniging,South Africa; Springs,South Africa; Benoni,South Africa; Johannesburg,South Africa; Tembisa,South Africa; Pretoria,South Africa; Rustenburg,South Africa; Polokwane,South Africa; Mbombela,South Africa;
+Mossel Bay,South Africa; George,South Africa; Port Elizabeth,South Africa; East London,South Africa; Mthatha,South Africa; Pietermaritzburg,South Africa; Durban,South Africa;
+Cape Town,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Mbombela,South Africa Durban,South Africa
+Online!
+Online!
+Online!
+Last checked Kimberley,South Africa Cape Town,South Africa
+Online!
+Online!
+Online!
+Last checked Mossel Bay,South Africa Cape Town,South Africa
+New round of evaluation
+The smallest distance so far is: 781.084. This is from Mossel Bay,South Africa to Cape Town,South Africa
+Start: 0, Stop: 1, Steps: 1
+Check one
+Kimberley,South Africa; Bloemfontein,South Africa; Welkom,South Africa; Vereeniging,South Africa; Springs,South Africa; Benoni,South Africa; Johannesburg,South Africa; Tembisa,South Africa; Pretoria,South Africa; Rustenburg,South Africa; Polokwane,South Africa; Mbombela,South Africa;
+Cape Town,South Africa; Mossel Bay,South Africa; George,South Africa; Port Elizabeth,South Africa; East London,South Africa; Mthatha,South Africa; Pietermaritzburg,South Africa; Durban,South Africa;
+Baseliner checked to start for loop
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Mbombela,South Africa Durban,South Africa
+Online!
+Online!
+Online!
+Online!
+Online!
+Last checked Mbombela,South Africa Durban,South Africa
+New round of evaluation
+The smallest distance so far is: 1418.4366. This is from Mbombela,South Africa to Durban,South Africa
+Start: 7, Stop: -1, Steps: -1
+Check one
+Check one
+Check one
+Check one
+Check one
+Check one
+Check one
+Check one
+Kimberley,South Africa; Bloemfontein,South Africa; Welkom,South Africa; Vereeniging,South Africa; Springs,South Africa; Benoni,South Africa; Johannesburg,South Africa; Tembisa,South Africa; Pretoria,South Africa; Rustenburg,South Africa; Polokwane,South Africa; Mbombela,South Africa; Durban,South Africa; Pietermaritzburg,South Africa; Mthatha,South Africa; East London,South Africa; Port Elizabeth,South Africa; George,South Africa; Mossel Bay,South Africa; Cape Town,South Africa;
+
+Results are:__
+Kimberley,South Africa
+Bloemfontein,South Africa
+Welkom,South Africa
+Vereeniging,South Africa
+Springs,South Africa
+Benoni,South Africa
+Johannesburg,South Africa
+Tembisa,South Africa
+Pretoria,South Africa
+Rustenburg,South Africa
+Polokwane,South Africa
+Mbombela,South Africa
+Durban,South Africa
+Pietermaritzburg,South Africa
+Mthatha,South Africa
+East London,South Africa
+Port Elizabeth,South Africa
+George,South Africa
+Mossel Bay,South Africa
+Cape Town,South Africa
